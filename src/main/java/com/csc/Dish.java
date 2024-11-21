@@ -1,6 +1,6 @@
 package com.csc;
 
-class Dish {
+public class Dish {
   public String description;
 
   Dish(String description) {

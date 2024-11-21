@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.csc.StackTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-11-21T01:04:34" hostname="Melissas-MacBook-Pro.local" time="0.014">
+  <properties/>
+  <testcase name="testPeek()" classname="com.csc.StackTest" time="0.01"/>
+  <testcase name="testStackSizeForOne()" classname="com.csc.StackTest" time="0.001"/>
+  <testcase name="testStackSizeForZero()" classname="com.csc.StackTest" time="0.001"/>
+  <testcase name="testSizePushingAndPopping()" classname="com.csc.StackTest" time="0.001"/>
+  <system-out><![CDATA[Inserting com.csc.Dish@496bc455 onto the stack
+Inserting com.csc.Dish@1972e513 onto the stack
+Inserting com.csc.Dish@7ae0a9ec onto the stack
+Inserting com.csc.Dish@2ab4bc72 onto the stack
+Inserting com.csc.Dish@4e5ed836 onto the stack
+Inserting com.csc.Dish@eadd4fb onto the stack
+Inserting com.csc.Dish@740fb309 onto the stack
+Popping item from stack...
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
