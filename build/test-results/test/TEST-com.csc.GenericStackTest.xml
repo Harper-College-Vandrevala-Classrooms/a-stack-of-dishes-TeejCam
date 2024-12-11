@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.csc.GenericStackTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-12-11T04:23:12" hostname="Melissas-MacBook-Pro.local" time="0.012">
+  <properties/>
+  <testcase name="testIntegerPeek()" classname="com.csc.GenericStackTest" time="0.01"/>
+  <testcase name="testIntegerPush()" classname="com.csc.GenericStackTest" time="0.0"/>
+  <testcase name="testStringPushAndPop()" classname="com.csc.GenericStackTest" time="0.0"/>
+  <system-out><![CDATA[Inserting 2 onto the stack
+Inserting 3 onto the stack
+Inserting 4 onto the stack
+Inserting 1 onto the stack
+Inserting red onto the stack
+Inserting green onto the stack
+Popping item from stack...
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
